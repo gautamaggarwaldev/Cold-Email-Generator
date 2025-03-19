@@ -1,0 +1,8 @@
+streamlit
+langchain
+pandas
+chromadb
+dotenv
+uuid
+langchain_groq
+json

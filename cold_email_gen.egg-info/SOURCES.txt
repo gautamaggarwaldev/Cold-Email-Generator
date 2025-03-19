@@ -1,0 +1,7 @@
+README.md
+setup.py
+cold_email_gen.egg-info/PKG-INFO
+cold_email_gen.egg-info/SOURCES.txt
+cold_email_gen.egg-info/dependency_links.txt
+cold_email_gen.egg-info/requires.txt
+cold_email_gen.egg-info/top_level.txt
